@@ -1,0 +1,7 @@
+Label,# Samples,Average,Min,Max,90% Line,Std. Dev.,Error %,Throughput,Received KB/sec,Avg. Bytes
+getArticles,1,1123,1123,1123,1123,0.00,0.00%,.9,20.16,23180.0
+createArticle,1,500,500,500,500,0.00,0.00%,2.0,1.25,639.0
+getArticleById,2,250,170,331,331,80.50,50.00%,1.7,1.18,704.0
+updateArticle,1,453,453,453,453,0.00,0.00%,2.2,1.26,585.0
+deleteArticle,1,332,332,332,332,0.00,0.00%,3.0,1.72,585.0
+TOTAL,6,484,170,1123,500,304.04,16.67%,2.6,11.05,4399.5

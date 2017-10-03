@@ -1,0 +1,10 @@
+timeStamp;elapsed;label;responseCode;threadName;success;bytes;sentBytes;grpThreads;allThreads;Latency;SampleCount;ErrorCount;Hostname;IdleTime;Connect
+11:03:41;545;getAllAlbums;200;Documentation of album_controller 1-1;true;2600;190;1;1;543;1;0;WKS-144;0;418
+11:03:41;84;createAlbum;201;Documentation of album_controller 1-1;true;639;444;1;1;84;1;0;WKS-144;0;0
+11:03:42;132;getAlbum;200;Documentation of album_controller 1-1;true;839;211;1;1;103;1;0;WKS-144;0;0
+11:03:42;190;updateAlbum;200;Documentation of album_controller 1-1;true;585;370;1;1;190;1;0;WKS-144;0;0
+11:03:42;151;updateAlbumCoverImage;200;Documentation of album_controller 1-1;true;585;243;1;1;151;1;0;WKS-144;0;0
+11:03:42;266;addImages;200;Documentation of album_controller 1-1;true;585;349;1;1;266;1;0;WKS-144;0;0
+11:03:42;111;getImages;200;Documentation of album_controller 1-1;true;753;199;1;1;111;1;0;WKS-144;0;0
+11:03:42;158;deleteImages;200;Documentation of album_controller 1-1;true;585;298;1;1;158;1;0;WKS-144;0;0
+11:03:43;340;deleteAlbum;200;Documentation of album_controller 1-1;true;585;214;1;1;340;1;0;WKS-144;0;0
