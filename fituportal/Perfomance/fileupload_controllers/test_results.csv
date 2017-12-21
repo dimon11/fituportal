@@ -1,0 +1,2 @@
+timeStamp;elapsed;label;responseCode;threadName;success;bytes;sentBytes;grpThreads;allThreads;Latency;SampleCount;ErrorCount;Hostname;IdleTime;Connect
+14:52:30;437;getFiles;200;Thread Group 1-1;true;1026;131;1;1;433;1;0;DESKTOP-HJIGDH8;0;359
