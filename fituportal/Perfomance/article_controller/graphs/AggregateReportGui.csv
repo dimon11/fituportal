@@ -1,7 +1,0 @@
-sampler_label,aggregate_report_count,average,aggregate_report_median,aggregate_report_90%_line,aggregate_report_95%_line,aggregate_report_99%_line,aggregate_report_min,aggregate_report_max,aggregate_report_error%,aggregate_report_rate,aggregate_report_bandwidth,aggregate_report_stddev
-getArticles,1,533,533,533,533,533,533,533,"0,00%","1,9","3,8","0,00"
-createArticle,1,183,183,183,183,183,183,183,"0,00%","5,5","3,4","0,00"
-getArticleById,1,95,95,95,95,95,95,95,"0,00%","10,5","8,0","0,00"
-updateArticle,1,109,109,109,109,109,109,109,"0,00%","9,2","5,2","0,00"
-deleteArticle,1,86,86,86,86,86,86,86,"0,00%","11,6","6,6","0,00"
-TOTAL,5,201,109,183,533,533,86,533,"0,00%","4,2","3,9","169,39"

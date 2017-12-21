@@ -1,3 +1,3 @@
 sampler_label,aggregate_report_count,average,aggregate_report_median,aggregate_report_90%_line,aggregate_report_95%_line,aggregate_report_99%_line,aggregate_report_min,aggregate_report_max,aggregate_report_error%,aggregate_report_rate,aggregate_report_bandwidth,aggregate_report_stddev
-getArticles,100,725,558,1215,1278,1431,340,1559,59.00%,50.4,1207.8,321.04
-TOTAL,100,725,558,1215,1278,1431,340,1559,59.00%,50.4,1207.8,321.04
+getArticles,1100,2578,1898,5021,6489,10857,583,27339,"18,73%","17,1","30,9","2379,84"
+TOTAL,1100,2578,1898,5021,6489,10857,583,27339,"18,73%","17,1","30,9","2379,84"
