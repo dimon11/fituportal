@@ -1,2 +1,0 @@
-timeStamp;elapsed;label;responseCode;threadName;success;bytes;sentBytes;grpThreads;allThreads;Latency;SampleCount;ErrorCount;Hostname;IdleTime;Connect
-13:35:07;357;getImages;500;Get images 1-1;false;633;201;1;1;357;1;1;WKS-144;0;279

@@ -1,6 +1,0 @@
-timeStamp;elapsed;label;responseCode;threadName;success;bytes;sentBytes;grpThreads;allThreads;Latency;SampleCount;ErrorCount;Hostname;IdleTime;Connect
-11:32:24;568;getAllGroups;200;Thread Group 1-1;true;2300;143;1;1;567;1;0;WKS-144;0;389
-11:32:25;239;createSubject;200;Thread Group 1-1;true;2300;316;1;1;239;1;0;WKS-144;0;0
-11:32:25;119;getGroup;400;Thread Group 1-1;false;993;224;1;1;119;1;1;WKS-144;0;0
-11:32:25;159;updateSubject;400;Thread Group 1-1;false;993;224;1;1;159;1;1;WKS-144;0;0
-11:32:25;100;deleteSubject;400;Thread Group 1-1;false;993;181;1;1;100;1;1;WKS-144;0;0
