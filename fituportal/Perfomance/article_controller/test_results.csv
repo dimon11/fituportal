@@ -1,0 +1,7 @@
+timeStamp;elapsed;label;responseCode;threadName;success;bytes;sentBytes;grpThreads;allThreads;Latency;SampleCount;ErrorCount;Hostname;IdleTime;Connect
+11:01:09;1123;getArticles;200;Thread Group 1-1;true;23180;192;1;1;1042;1;0;WKS-144;0;452
+11:01:10;500;createArticle;201;Thread Group 1-1;true;639;377;1;1;425;1;0;WKS-144;0;79
+11:01:10;331;getArticleById;200;Thread Group 1-1;true;780;194;1;1;323;1;0;WKS-144;0;0
+11:01:10;453;updateArticle;200;Thread Group 1-1;true;585;382;1;1;453;1;0;WKS-144;0;0
+11:01:11;332;deleteArticle;200;Thread Group 1-1;true;585;216;1;1;332;1;0;WKS-144;0;0
+11:01:11;170;getArticleById;500;Thread Group 1-1;false;628;194;1;1;170;1;1;WKS-144;0;0
