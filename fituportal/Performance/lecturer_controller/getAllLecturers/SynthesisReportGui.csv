@@ -1,0 +1,3 @@
+Label,# Samples,Average,Min,Max,90% Line,Std. Dev.,Error %,Throughput,Received KB/sec,Avg. Bytes
+getAllLecturers,1000,1812,352,7181,4154,1618.11,62.70%,16.2,345.48,21902.4
+TOTAL,1000,1812,352,7181,4154,1618.11,62.70%,16.2,345.48,21902.4

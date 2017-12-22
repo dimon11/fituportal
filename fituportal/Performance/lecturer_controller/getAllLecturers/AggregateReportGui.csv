@@ -1,0 +1,3 @@
+sampler_label,aggregate_report_count,average,aggregate_report_median,aggregate_report_90%_line,aggregate_report_95%_line,aggregate_report_99%_line,aggregate_report_min,aggregate_report_max,aggregate_report_error%,aggregate_report_rate,aggregate_report_bandwidth,aggregate_report_stddev
+getAllLecturers,1000,1812,861,4154,5038,6472,352,7181,62.70%,16.2,345.5,1618.11
+TOTAL,1000,1812,861,4154,5038,6472,352,7181,62.70%,16.2,345.5,1618.11

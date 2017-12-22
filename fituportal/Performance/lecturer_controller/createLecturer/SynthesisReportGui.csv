@@ -1,0 +1,3 @@
+Label,# Samples,Average,Min,Max,90% Line,Std. Dev.,Error %,Throughput,Received KB/sec,Avg. Bytes
+createLecturer,1000,374,291,1382,430,71.47,0.00%,16.5,10.28,639.0
+TOTAL,1000,374,291,1382,430,71.47,0.00%,16.5,10.28,639.0
