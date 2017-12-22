@@ -1,0 +1,3 @@
+Label,# Samples,Average,Min,Max,90% Line,Std. Dev.,Error %,Throughput,Received KB/sec,Avg. Bytes
+getAllSubjects,1000,1862,329,7409,4470,1758.22,67.40%,15.7,335.81,21905.2
+TOTAL,1000,1862,329,7409,4470,1758.22,67.40%,15.7,335.81,21905.2
