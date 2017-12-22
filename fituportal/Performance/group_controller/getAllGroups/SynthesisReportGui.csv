@@ -1,0 +1,3 @@
+Label,# Samples,Average,Min,Max,90% Line,Std. Dev.,Error %,Throughput,Received KB/sec,Avg. Bytes
+getAllGroups,6000,433,288,2474,538,202.53,1.43%,95.3,68.74,738.7
+TOTAL,6000,433,288,2474,538,202.53,1.43%,95.3,68.74,738.7
