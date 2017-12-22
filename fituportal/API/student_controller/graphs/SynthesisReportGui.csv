@@ -1,0 +1,7 @@
+Label,# Samples,Average,Min,Max,90% Line,Std. Dev.,Error %,Throughput,Received KB/sec,Avg. Bytes
+getAllStudents,1,453,453,453,453,0.00,0.00%,2.2,7.50,3481.0
+createStudent,1,76,76,76,76,0.00,0.00%,13.2,8.24,641.0
+getStudent,1,85,85,85,85,0.00,0.00%,11.8,12.14,1057.0
+deleteStudent,1,92,92,92,92,0.00,0.00%,10.9,6.21,585.0
+updateStudent,1,117,117,117,117,0.00,100.00%,8.5,8.35,1000.0
+TOTAL,5,164,76,453,117,144.84,20.00%,11.0,14.58,1352.8

@@ -1,0 +1,6 @@
+timeStamp;elapsed;label;responseCode;threadName;success;bytes;sentBytes;grpThreads;allThreads;Latency;SampleCount;ErrorCount;Hostname;IdleTime;Connect
+16:43:26;453;getAllStudents;200;Documentation of student_controller 1-1;true;3481;192;1;1;453;1;0;WKS-144;0;345
+16:43:26;76;createStudent;201;Documentation of student_controller 1-1;true;641;754;1;1;76;1;0;WKS-144;0;0
+16:43:26;85;getStudent;200;Documentation of student_controller 1-1;true;1057;198;1;1;85;1;0;WKS-144;0;0
+16:43:26;92;deleteStudent;200;Documentation of student_controller 1-1;true;585;220;1;1;92;1;0;WKS-144;0;0
+16:43:26;117;updateStudent;500;Documentation of student_controller 1-1;false;1000;744;1;1;117;1;1;WKS-144;0;0
