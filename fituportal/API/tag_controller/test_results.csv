@@ -1,0 +1,6 @@
+timeStamp;elapsed;label;responseCode;threadName;success;bytes;sentBytes;grpThreads;allThreads;Latency;SampleCount;ErrorCount;Hostname;IdleTime;Connect
+17:51:00;385;getAllTags;200;Thread Group 1-1;true;2334;186;1;1;385;1;0;WKS-144;0;296
+17:51:01;159;createTag;201;Thread Group 1-1;true;585;232;1;1;159;1;0;WKS-144;0;0
+17:51:01;78;getTag;405;Thread Group 1-1;false;869;190;1;1;78;1;1;WKS-144;0;0
+17:51:01;82;updateTag;405;Thread Group 1-1;false;585;241;1;1;82;1;1;WKS-144;0;0
+17:51:01;79;deleteTag;500;Thread Group 1-1;false;691;212;1;1;79;1;1;WKS-144;0;0

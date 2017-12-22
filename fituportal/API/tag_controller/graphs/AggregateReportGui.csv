@@ -1,0 +1,7 @@
+sampler_label,aggregate_report_count,average,aggregate_report_median,aggregate_report_90%_line,aggregate_report_95%_line,aggregate_report_99%_line,aggregate_report_min,aggregate_report_max,aggregate_report_error%,aggregate_report_rate,aggregate_report_bandwidth,aggregate_report_stddev
+getAllTags,1,385,385,385,385,385,385,385,0.00%,2.6,5.9,0.00
+createTag,1,159,159,159,159,159,159,159,0.00%,6.3,3.6,0.00
+getTag,1,78,78,78,78,78,78,78,100.00%,12.8,10.9,0.00
+updateTag,1,82,82,82,82,82,82,82,100.00%,12.2,7.0,0.00
+deleteTag,1,79,79,79,79,79,79,79,100.00%,12.7,8.5,0.00
+TOTAL,5,156,82,159,385,385,78,385,60.00%,4.3,4.3,118.27
