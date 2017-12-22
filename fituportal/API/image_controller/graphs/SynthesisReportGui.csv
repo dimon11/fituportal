@@ -1,0 +1,3 @@
+Label,# Samples,Average,Min,Max,90% Line,Std. Dev.,Error %,Throughput,Received KB/sec,Avg. Bytes
+uploadImages,1,497,497,497,497,0.00,100.00%,2.0,1.96,1000.0
+TOTAL,1,497,497,497,497,0.00,100.00%,2.0,1.96,1000.0

@@ -1,0 +1,4 @@
+timeStamp;elapsed;label;responseCode;threadName;success;bytes;sentBytes;grpThreads;allThreads;Latency;SampleCount;ErrorCount;Hostname;IdleTime;Connect
+14:47:44;1505;getAllLecturers;200;Documentation of lecturer_controller 1-1;true;57326;212;1;1;1374;1;0;WKS-144;0;365
+14:47:46;88;createLecturer;201;Documentation of lecturer_controller 1-1;true;639;865;1;1;88;1;0;WKS-144;0;0
+14:47:46;93;getLecturer;200;Documentation of lecturer_controller 1-1;true;931;195;1;1;93;1;0;WKS-144;0;0
